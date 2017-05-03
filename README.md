@@ -1,5 +1,4 @@
 # jobCompany
-Application for automates some of the processes that take place in the context of running a a Job-Placement company 
-
-Database + GUI 
-(Admin + Users)
+Application that automates some of the processes that take place in the context of running a Job-Placement company.
+(includes also Database and GUI ) 
+Admin / User Mode
