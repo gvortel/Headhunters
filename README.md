@@ -10,3 +10,7 @@ Optimization:
 - If respond is out of time then the state of the Job Index will not change from Failed
 - Security check for responses. Any Employer who wants to accept a match index , should have the authority to do it and that match index must exist.
 - Password at login screen
+
+RD Model
+![alt text](https://github.com/gvortel/Headhunters/blob/master/tables.png)
+
